@@ -1,0 +1,4 @@
+# Optional dependencies for tests and plotting
+numpy>=1.19.0
+matplotlib>=3.3.0
+pytest>=6.0.0
